@@ -1,47 +1,46 @@
-<a href="https://github.com/DenysPiven">
-  <img align="left" width="270" src="https://avatars.githubusercontent.com/u/24954996?v=4" alt="Denys Piven" />
-</a>
+# Denys Piven
 
-<pre>
-<b>denys@piven</b>
-────────────────────────────────────────────────────────
-<b>Role</b> ............ Senior Java Developer
-<b>Location</b> ........ Kyiv, Ukraine
-<b>Summary</b> ......... 7+ years in banking, healthcare, trading, and AI products.
-                    Back-end architecture, database optimization, legacy-to-cloud
-                    migrations, production support, full-stack delivery.
+**Senior Java Developer** · Kyiv, Ukraine
 
-<b>Skills.Programming</b>
-  Java (8–22), C#, C++, JavaScript, TypeScript, Groovy, SQL, Node.js
+> 7+ years delivering production systems in **banking, healthcare, trading, and AI**. Strongest in back-end architecture, database optimization, and legacy-to-cloud migrations — owning services from design through release, code review, and production support. Full-stack when the product needs it. I mentor on API design and modernization, and use AI-assisted development to move faster on legacy and greenfield work.
 
-<b>Skills.Frameworks</b>
-  Spring, Spring Boot, Hibernate, JPA, Kafka, RabbitMQ, Angular, React, Vue,
-  JaCoCo, JUnit
+Most of my code lives in **private company repositories**. GitHub is my playground — pet projects, experiments, and things I build for fun.
 
-<b>Skills.Databases</b>
-  PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, OracleDB, Flyway,
-  Liquibase, SQL
+---
 
-<b>Skills.Development</b>
-  Maven, Gradle, Docker, K8s, Jenkins, TeamCity, AWS, Azure, GCP, Grafana, ELK
+### Skills
 
-<b>Skills.Web</b>
-  REST, HTTP, Swagger, OAuth, JWT, JSON, WebSockets, Nginx, API Gateway,
-  Webhooks
+**Languages:** Java (8–22), C#, C++, JavaScript, TypeScript, Groovy, SQL, Node.js  
+**Frameworks:** Spring, Spring Boot, Hibernate, JPA, Kafka, RabbitMQ, Angular, React, Vue, JUnit  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, OracleDB, Flyway, Liquibase  
+**Cloud & DevOps:** AWS, Azure, GCP, Docker, K8s, Jenkins, TeamCity, Terraform, Grafana, ELK  
+**Web:** REST, OAuth, JWT, Swagger, WebSockets, API Gateway  
+**Practices:** Microservices, TDD, DDD, CI/CD, system design, code review  
 
-<b>Skills.Methodologies</b>
-  Agile, Scrum, SOLID, TDD, DDD, CI/CD, Microservices, Code Review,
-  System Design
+---
 
-<b>Skills.Tools</b>
-  Git, GitHub, GitLab, IntelliJ, Claude Code, Cursor, CodeRabbit, DBeaver,
-  Postman, Terraform, Atlassian SDK, Jira, Bitbucket, Confluence, SonarLint,
-  SonarQube, VisualVM, Slack, Teams, Linux
+### What I ship in production
 
-<b>Languages.Real</b>
-  English, Ukrainian
+| Domain | Examples of work |
+|--------|------------------|
+| 🏦 **Banking** | Consumer lending, payments, loan servicing, AWS serverless migrations |
+| 🏥 **Healthcare** | EHR, billing, clinical workflows, PostgreSQL performance tuning |
+| 📈 **Trading** | Risk management, real-time pipelines, financial reporting |
+| 🤖 **AI** | ML-backed APIs, Kafka microservices, MVP platforms from scratch |
 
-<b>Contact.Email</b> ..... denys.piven.my@gmail.com
-<b>Contact.LinkedIn</b> .. linkedin.com/in/DenysPiven
-<b>Contact.GitHub</b> .... github.com/DenysPiven
-</pre>
+---
+
+### Pet projects
+
+Side repos when I'm not shipping for a company:
+
+| | Project | What it is |
+|:-:|---------|------------|
+| 🎨 | [GitArt](https://github.com/DenysPiven/GitArt) | Git history as generative art |
+| 🏎️ | [Formula-1](https://github.com/DenysPiven/Formula-1) | F1 2026 teams, drivers & profiles |
+| 🌍 | [EuroTour](https://github.com/DenysPiven/EuroTour) | European travel planner |
+| 🚩 | [FlagTrainer](https://github.com/DenysPiven/FlagTrainer) | Country flag trainer |
+
+---
+
+📫 [denys.piven.my@gmail.com](mailto:denys.piven.my@gmail.com) · [LinkedIn](https://www.linkedin.com/in/DenysPiven) · English & Ukrainian
