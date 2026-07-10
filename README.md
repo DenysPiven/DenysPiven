@@ -7,28 +7,39 @@
 ────────────────────────────────────────────────────────
 <b>Role</b> ............ Senior Java Developer
 <b>Location</b> ........ Kyiv, Ukraine
-<b>Focus</b> ........... Back-end architecture, cloud migrations, production systems
+<b>Summary</b> ......... 7+ years in banking, healthcare, trading, and AI products.
+                    Back-end architecture, database optimization, legacy-to-cloud
+                    migrations, production support, full-stack delivery.
 
-<b>Languages.Programming</b>
-  Java, C#, C++, JavaScript, TypeScript, Groovy, SQL, Node.js
+<b>Skills.Programming</b>
+  Java (8–22), C#, C++, JavaScript, TypeScript, Groovy, SQL, Node.js
 
-<b>Languages.Back-end</b>
-  Spring Boot, Hibernate, JPA, Kafka, RabbitMQ, REST, OAuth, JWT
+<b>Skills.Frameworks</b>
+  Spring, Spring Boot, Hibernate, JPA, Kafka, RabbitMQ, Angular, React, Vue,
+  JaCoCo, JUnit
 
-<b>Languages.Front-end</b>
-  Angular, React, Vue
+<b>Skills.Databases</b>
+  PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, OracleDB, Flyway,
+  Liquibase, SQL
 
-<b>Languages.Databases</b>
-  PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, OracleDB, Flyway
+<b>Skills.Development</b>
+  Maven, Gradle, Docker, K8s, Jenkins, TeamCity, AWS, Azure, GCP, Grafana, ELK
 
-<b>Languages.DevOps</b>
-  Docker, Kubernetes, Jenkins, TeamCity, AWS, Azure, GCP, Terraform, Grafana
+<b>Skills.Web</b>
+  REST, HTTP, Swagger, OAuth, JWT, JSON, WebSockets, Nginx, API Gateway,
+  Webhooks
 
-<b>Languages.Tools</b>
-  IntelliJ, Cursor, Claude Code, Git, Maven, Gradle, Postman, SonarQube
+<b>Skills.Methodologies</b>
+  Agile, Scrum, SOLID, TDD, DDD, CI/CD, Microservices, Code Review,
+  System Design
+
+<b>Skills.Tools</b>
+  Git, GitHub, GitLab, IntelliJ, Claude Code, Cursor, CodeRabbit, DBeaver,
+  Postman, Terraform, Atlassian SDK, Jira, Bitbucket, Confluence, SonarLint,
+  SonarQube, VisualVM, Slack, Teams, Linux
 
 <b>Languages.Real</b>
-  Ukrainian, English
+  English, Ukrainian
 
 <b>Contact.Email</b> ..... denys.piven.my@gmail.com
 <b>Contact.LinkedIn</b> .. linkedin.com/in/DenysPiven
