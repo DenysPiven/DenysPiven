@@ -4,7 +4,7 @@
 
 > 7+ years delivering production systems in **banking, healthcare, trading, and AI**. Strongest in back-end architecture, database optimization, and legacy-to-cloud migrations — owning services from design through release, code review, and production support. Full-stack when the product needs it. I mentor on API design and modernization, and use AI-assisted development to move faster on legacy and greenfield work.
 
-Most of my code lives in **private company repositories**. GitHub is my playground — pet projects, experiments, and things I build for fun.
+Most of my code lives in **private company repositories**. Here I share pet projects, experiments, and things I build for fun.
 
 ---
 
