@@ -1,6 +1,6 @@
 # Denys Piven
 
-**Senior Java Developer** · Kyiv, Ukraine
+**Senior Java Developer**
 
 > 7+ years delivering production systems in **banking, healthcare, trading, and AI**. Strongest in back-end architecture, database optimization, and legacy-to-cloud migrations — owning services from design through release, code review, and production support. Full-stack when the product needs it. I mentor on API design and modernization, and use AI-assisted development to move faster on legacy and greenfield work.
 
